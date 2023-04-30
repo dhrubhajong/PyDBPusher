@@ -1,0 +1,3 @@
+[2023-03-20 18:27:01,090]: INFO -['User_Name':Dhrub]: -['filename']:main.py -['function_name']:create_schema -['line_no']:14 - Creating a Schema 
+[2023-03-20 18:27:01,185]: INFO -['User_Name':Dhrub]: -['filename']:main.py -['function_name']:create_table -['line_no']:56 - Created successfull Table 
+[2023-03-20 18:28:02,529]: INFO -['User_Name':Dhrub]: -['filename']:main.py -['function_name']:insert_data -['line_no']:81 - Data inserted successfully on Table 
