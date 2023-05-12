@@ -1,6 +1,6 @@
 # PyDBPusher
 
-PyDBPusher is a Python repository that provides a simple way to build connections and push data to a PostgreSQL database. This repository contains sample code and utilities that demonstrate how to establish a connection to a PostgreSQL database using Python and push data to the database.
+PyDBPusher is a Python repository that provides an automation way to build connections and push data to a PostgreSQL database. This repository contains sample code and utilities that demonstrate how to establish a connection to a PostgreSQL database using Python and push data to the database.
 
 # Getting Started
  To get started with PyPostgreSQLConnector, you should have Python 3.x installed on your machine and have access to a PostgreSQL database. You will also need to install the psycopg2 package, which is a PostgreSQL database adapter for Python.
