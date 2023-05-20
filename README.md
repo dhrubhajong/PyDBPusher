@@ -39,8 +39,7 @@ To use PyPostgreSQLConnector, you can follow these steps:
 
 6. Run the code to establish a connection to your PostgreSQL database and push data to it.
 
-# Contributing
-Contributions to PyPostgreSQLConnector are welcome and appreciated! If you find a bug or want to add a new feature, please open an issue or submit a pull request.
+
 
 
 
